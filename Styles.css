@@ -72,7 +72,7 @@ body {
     border: 3px solid white;
   }
 @media only  screen and (max-width:575px){
-  input{
+  textarea{
     width: 200px;
   }
 }
